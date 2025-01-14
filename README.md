@@ -68,10 +68,12 @@ BG3Localization/
    Пример использования PyInstaller:
     ```bash
     pyinstaller --onefile main_translator.py
+    ```
 
    Или, чтобы включить нужные ресурсы/иконки, можно модифицировать команду:
     ```bash
     pyinstaller --onefile --icon=icon.ico main_translator.py
+    ```
 После этого в папке dist будет готовый исполняемый файл (например, main_translator.exe).
 Пример структуры дир
 
