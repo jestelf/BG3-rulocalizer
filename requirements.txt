@@ -1,0 +1,6 @@
+beautifulsoup4
+lxml
+pyperclip
+python-Levenshtein
+googletrans==4.0.0-rc1
+PyQt5
