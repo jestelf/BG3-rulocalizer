@@ -39,20 +39,20 @@
 - **Левенштейново сопоставление** (опция) — позволяет подтягивать переводы для строк, которые похожи на уже переведённые (например, опечатки в оригинале).
 
 ## Пример структуры директорий:
-BG3Localization/
-├── bg3localith.exe             # Готовый исполняемый файл
-├── bg3-modders-multitools.exe
-├── UnpackedMods/
-│   ├── SomeMod/
-│   │   ├── Localization/
-│   │   │   ├── English/
-│   │   │   │   └── english.xml
-│   │   │   └── Russian/
-│   │   │       └── russian.xml
-│   ├── AnotherMod/
-│   │   └── Localization/
-│   │       └── ...
-└── ...
+#BG3Localization/
+#├── bg3localith.exe             # Готовый исполняемый файл
+#├── bg3-modders-multitools.exe
+#├── UnpackedMods/
+#│   ├── SomeMod/
+#│   │   ├── Localization/
+#│   │   │   ├── English/
+#│   │   │   │   └── english.xml
+#│   │   │   └── Russian/
+#│   │   │       └── russian.xml
+#│   ├── AnotherMod/
+#│   │   └── Localization/
+#│   │       └── ...
+#└── ...
 
 ## Лицензия
 
