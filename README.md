@@ -75,7 +75,6 @@ BG3Localization/
     pyinstaller --onefile --icon=icon.ico main_translator.py
     ```
 После этого в папке dist будет готовый исполняемый файл (например, main_translator.exe).
-Пример структуры дир
 
 ## Лицензия
 
